@@ -9,27 +9,54 @@
     <atom:link href="https://thomashmd.github.io/YouTubeRSS/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://www.youtube.com/@ThomasHammoudi</link>
     <description>Posts pré-rédigés pour les dernières vidéos YouTube de Thomas Hammoudi (généré tous les 2 mois)</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 23:01:19 GMT</lastBuildDate>
     <language>fr-FR</language>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>https://n8n.io</generator>
 
     <item>
+      <title><![CDATA[L'AFP a trié 6 millions de photos pour ces 3 livres]]></title>
+      <link>https://www.youtube.com/watch?v=pWHtPKuTEhs</link>
+      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
+      <pubDate>Wed, 28 Oct 2026 07:55:07 GMT</pubDate>
+      <description><![CDATA[<p>J’ai plus de 600 livres photo et je deviens de plus en plus difficile avant d’en acheter un. Dans cette vidéo, je parle de la construction d’une bibliothèque photo, et d’un livre de l’AFP à gagner.</p>]]></description>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pWHtPKuTEhs</guid>
+      <enclosure url="https://i.ytimg.com/vi/pWHtPKuTEhs/hqdefault.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title><![CDATA[C’EST PAS LE TALENT]]></title>
+      <link>https://www.youtube.com/watch?v=PTSo59YFGsQ</link>
+      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
+      <pubDate>Sun, 18 Oct 2026 07:00:09 GMT</pubDate>
+      <description><![CDATA[<p>Un projet photo s’arrête rarement par manque de talent. Il s’arrête sur un mur. J’en ai identifié 5, avec des exemples tirés de NORLANDO. Et vous, lequel vous bloque ?</p>]]></description>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PTSo59YFGsQ</guid>
+      <enclosure url="https://i.ytimg.com/vi/PTSo59YFGsQ/hqdefault.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title><![CDATA[Je pousse les RAW du Hasselblad X2D II dans Lightroom]]></title>
+      <link>https://www.youtube.com/watch?v=yqzl8l9GuhE</link>
+      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
+      <pubDate>Wed, 14 Oct 2026 16:00:24 GMT</pubDate>
+      <description><![CDATA[<p>Je pousse les RAW 100 Mpx du Hasselblad X2D II dans Lightroom pour voir si le moyen format se voit vraiment. Énorme latitude, mais pas forcément indispensable selon sa pratique.</p>]]></description>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=yqzl8l9GuhE</guid>
+      <enclosure url="https://i.ytimg.com/vi/yqzl8l9GuhE/hqdefault.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title><![CDATA[Dropbox a bloqué mon compte pour une photo]]></title>
       <link>https://www.youtube.com/watch?v=aF3fZNRakJs</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 07 Oct 2026 16:00:17 GMT</pubDate>
-      <description><![CDATA[<p>Pour une simple photo de Nan Goldin, Dropbox a bloqué 15 ans de mes fichiers. Une mésaventure absurde qui rappelle pourquoi il ne faut jamais dépendre d’un seul cloud.</p>]]></description>
+      <description><![CDATA[<p>Dropbox a bloqué mon compte et 15 ans de fichiers pour « contenu illégal », à cause d’une photo de Nan Goldin. Je raconte comment ça s’est passé et pourquoi cela peut arriver à n’importe qui.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=aF3fZNRakJs</guid>
       <enclosure url="https://i.ytimg.com/vi/aF3fZNRakJs/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title><![CDATA[📷 Pourquoi j’arrête la culture photo]]></title>
+      <title><![CDATA[Pourquoi j’arrête la culture photo]]></title>
       <link>https://www.youtube.com/watch?v=-pew1sdEM_I</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Thu, 01 Oct 2026 16:00:37 GMT</pubDate>
-      <description><![CDATA[<p>J’arrête d’aborder la culture photo : j’ai conçu 10 outils gratuits pour répondre à vos besoins de livres, d’expositions et de veille. Tout est désormais accessible au même endroit.</p>]]></description>
+      <description><![CDATA[<p>Je mets fin à la culture photo sur la chaîne : j’ai terminé 10 outils gratuits pour savoir quoi lire, qui suivre, où aller et comment rester informé. Tout est expliqué dans la vidéo.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=-pew1sdEM_I</guid>
       <enclosure url="https://i.ytimg.com/vi/-pew1sdEM_I/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -38,16 +65,16 @@
       <link>https://www.youtube.com/watch?v=W_GlqNea63U</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 23 Sep 2026 16:00:05 GMT</pubDate>
-      <description><![CDATA[<p>J’ai passé trois semaines en voyage avec un moyen format Hasselblad. Loin des fiches techniques, voici mon retour d’expérience sur la réalité du terrain et ses contraintes.</p>]]></description>
+      <description><![CDATA[<p>Je reviens de 3 semaines de voyage avec un kit Hasselblad moyen format. Mon retour d’expérience sur le terrain : poids, autofocus, batteries et ce qui m’a agacé, sans tableaux ni mires. Vidéo en ligne.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=W_GlqNea63U</guid>
       <enclosure url="https://i.ytimg.com/vi/W_GlqNea63U/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title><![CDATA[📷 FUYEZ les CONCOURS PHOTO]]></title>
+      <title><![CDATA[FUYEZ les CONCOURS PHOTO]]></title>
       <link>https://www.youtube.com/watch?v=3Fesyt3rOrU</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 16 Sep 2026 16:00:03 GMT</pubDate>
-      <description><![CDATA[<p>La plupart des concours photo apprennent à flatter un jury plutôt qu’à construire une démarche. On décortique ce business et les rares opportunités utiles.</p>]]></description>
+      <description><![CDATA[<p>Je refuse les concours photo, même comme juré. Entre médailles payantes et envie de plaire au jury, ils font rarement progresser. Dans la vidéo, je nuance aussi avec les rares prix utiles.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=3Fesyt3rOrU</guid>
       <enclosure url="https://i.ytimg.com/vi/3Fesyt3rOrU/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -56,7 +83,7 @@
       <link>https://www.youtube.com/watch?v=zQ3Oc9BdQ7c</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 02 Sep 2026 16:00:06 GMT</pubDate>
-      <description><![CDATA[<p>On passe souvent trop de temps à étudier la photo au lieu de pratiquer. Gardez au moins la moitié de votre temps pour expérimenter sans enjeu, quitte à rater.</p>]]></description>
+      <description><![CDATA[<p>Je passe sans doute trop de temps à étudier la photo. Une règle découverte en apprenant le dessin m’a aidé : max 50% d’étude, et au moins 50% à photographier pour jouer, sans rien à prouver.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=zQ3Oc9BdQ7c</guid>
       <enclosure url="https://i.ytimg.com/vi/zQ3Oc9BdQ7c/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -65,54 +92,18 @@
       <link>https://www.youtube.com/watch?v=_EoT6Y8Mft4</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 08 Jul 2026 16:00:36 GMT</pubDate>
-      <description><![CDATA[<p>J’ai passé en revue dix photographes dont on parle un peu trop, ou pas assez par rapport à leur travail. C’est totalement subjectif, et je suis curieux d’avoir vos listes.</p>]]></description>
+      <description><![CDATA[<p>Dix photographes que je trouve surcotés ou sous-cotés, selon moi, sans jugement sur leur qualité. Mon avis est subjectif et vous allez peut-être râler, alors dites-moi quels noms vous mettriez dans vos listes.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=_EoT6Y8Mft4</guid>
       <enclosure url="https://i.ytimg.com/vi/_EoT6Y8Mft4/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title><![CDATA[📷 Il photographie (presque) la même façade depuis 20 ans…]]></title>
+      <title><![CDATA[Il photographie (presque) la même façade depuis 20 ans…]]></title>
       <link>https://www.youtube.com/watch?v=IJPTGFOCGB4</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 24 Jun 2026 16:00:22 GMT</pubDate>
-      <description><![CDATA[<p>La répétition en photo n’est pas de la paresse, mais une méthode. Depuis 20 ans, Thibaut Derien documente les mêmes façades et rappelle la force du temps long face aux tendances.</p>]]></description>
+      <description><![CDATA[<p>Thibaut Derien photographie presque la même façade depuis 20 ans. Pour moi, ce n’est pas de la paresse mais une vraie méthode, qui documente la France des petits commerces qui s’éteint.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=IJPTGFOCGB4</guid>
       <enclosure url="https://i.ytimg.com/vi/IJPTGFOCGB4/hqdefault.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[📷  2 ans et demi avec le Ricoh GR III : toujours fan]]></title>
-      <link>https://www.youtube.com/watch?v=kNHVWybH-7I</link>
-      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
-      <pubDate>Tue, 09 Jun 2026 22:00:11 GMT</pubDate>
-      <description><![CDATA[<p>Après deux ans et demi avec le Ricoh GR III, je fais le point. Malgré ses défauts, c’est l’appareil qui réduit le mieux la friction pour me pousser à photographier au quotidien.</p>]]></description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=kNHVWybH-7I</guid>
-      <enclosure url="https://i.ytimg.com/vi/kNHVWybH-7I/hqdefault.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[📷  Pourquoi les photos de Sebastião Salgado divisent autant]]></title>
-      <link>https://www.youtube.com/watch?v=ge6p9UtwbRY</link>
-      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
-      <pubDate>Wed, 27 May 2026 16:00:20 GMT</pubDate>
-      <description><![CDATA[<p>Peut-on faire de sublimes images de drames humains ? En vidéo, je reviens sur le cas Salgado et sur cette frontière floue entre témoigner avec dignité et esthétiser la souffrance.</p>]]></description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ge6p9UtwbRY</guid>
-      <enclosure url="https://i.ytimg.com/vi/ge6p9UtwbRY/hqdefault.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[📷 Mon plus gros projet de 2026]]></title>
-      <link>https://www.youtube.com/watch?v=L2toyw3GKhs</link>
-      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
-      <pubDate>Wed, 13 May 2026 16:00:35 GMT</pubDate>
-      <description><![CDATA[<p>Savoir déclencher est une chose, comprendre pourquoi une photo fonctionne en est une autre. Je lance un programme gratuit de six mois pour construire cette culture photo.</p>]]></description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=L2toyw3GKhs</guid>
-      <enclosure url="https://i.ytimg.com/vi/L2toyw3GKhs/hqdefault.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[La photo de rue est morte : et c'est VOTRE faute]]></title>
-      <link>https://www.youtube.com/watch?v=0NZNbrgog7k</link>
-      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
-      <pubDate>Tue, 28 Apr 2026 22:00:03 GMT</pubDate>
-      <description><![CDATA[<p>À force de flatter les algorithmes, on a vidé la photo de rue de son chaos. Il est temps de lâcher les recettes toutes faites pour retrouver une vraie démarche.</p>]]></description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=0NZNbrgog7k</guid>
-      <enclosure url="https://i.ytimg.com/vi/0NZNbrgog7k/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
 </channel>
 </rss>
