@@ -9,18 +9,27 @@
     <atom:link href="https://thomashmd.github.io/YouTubeRSS/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://www.youtube.com/@ThomasHammoudi</link>
     <description>Posts pré-rédigés pour les dernières vidéos YouTube de Thomas Hammoudi (généré tous les 2 mois)</description>
-    <lastBuildDate>Sat, 31 Oct 2026 23:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:19:57 GMT</lastBuildDate>
     <language>fr-FR</language>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>https://n8n.io</generator>
 
     <item>
+      <title><![CDATA[J'ai donné les looks Classic Chrome et Tri-X à un Nikon D40 de 2006 à 70 € (gratuit)]]></title>
+      <link>https://www.youtube.com/watch?v=VV38e7QBacQ</link>
+      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
+      <pubDate>Wed, 04 Nov 2026 17:00:20 GMT</pubDate>
+      <description><![CDATA[<p>J’ai réussi à faire sortir les rendus Classic Chrome et Tri-X d’un Nikon D40 de 2006, à 70 € d’occasion, directement en JPEG. Je raconte comment et je partage tout gratuitement : https://thomashammoudi.com/retro-ingenierie-boitiers/</p>]]></description>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VV38e7QBacQ</guid>
+      <enclosure url="https://i.ytimg.com/vi/VV38e7QBacQ/hqdefault.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title><![CDATA[L'AFP a trié 6 millions de photos pour ces 3 livres]]></title>
       <link>https://www.youtube.com/watch?v=pWHtPKuTEhs</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 28 Oct 2026 07:55:07 GMT</pubDate>
-      <description><![CDATA[<p>J’ai plus de 600 livres photo et je deviens de plus en plus difficile avant d’en acheter un. Dans cette vidéo, je parle de la construction d’une bibliothèque photo, et d’un livre de l’AFP à gagner.</p>]]></description>
+      <description><![CDATA[<p>J’ai plus de 600 livres photo chez moi, et je deviens de plus en plus difficile avant d’en acheter un nouveau. Dans cette vidéo, je partage ma méthode pour construire sa bibliothèque et un livre de l’AFP est à gagner.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=pWHtPKuTEhs</guid>
       <enclosure url="https://i.ytimg.com/vi/pWHtPKuTEhs/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -29,7 +38,7 @@
       <link>https://www.youtube.com/watch?v=PTSo59YFGsQ</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Sun, 18 Oct 2026 07:00:09 GMT</pubDate>
-      <description><![CDATA[<p>Un projet photo s’arrête rarement par manque de talent. Il s’arrête sur un mur. J’en ai identifié 5, avec des exemples tirés de NORLANDO. Et vous, lequel vous bloque ?</p>]]></description>
+      <description><![CDATA[<p>Un projet photo s’arrête rarement par manque de talent. Il bute sur un mur : sujet, style, sélection, légitimité ou diffusion. Dans cette vidéo, je passe les 5 en revue. Et vous, c’est lequel ?</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PTSo59YFGsQ</guid>
       <enclosure url="https://i.ytimg.com/vi/PTSo59YFGsQ/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -38,7 +47,7 @@
       <link>https://www.youtube.com/watch?v=yqzl8l9GuhE</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 14 Oct 2026 16:00:24 GMT</pubDate>
-      <description><![CDATA[<p>Je pousse les RAW 100 Mpx du Hasselblad X2D II dans Lightroom pour voir si le moyen format se voit vraiment. Énorme latitude, mais pas forcément indispensable selon sa pratique.</p>]]></description>
+      <description><![CDATA[<p>Le moyen format se voit-il vraiment dans les fichiers ? J’ai poussé les RAW du Hasselblad X2D II dans Lightroom : une latitude folle, mais pas forcément indispensable selon sa pratique.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=yqzl8l9GuhE</guid>
       <enclosure url="https://i.ytimg.com/vi/yqzl8l9GuhE/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -47,7 +56,7 @@
       <link>https://www.youtube.com/watch?v=aF3fZNRakJs</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 07 Oct 2026 16:00:17 GMT</pubDate>
-      <description><![CDATA[<p>Dropbox a bloqué mon compte et 15 ans de fichiers pour « contenu illégal », à cause d’une photo de Nan Goldin. Je raconte comment ça s’est passé et pourquoi cela peut arriver à n’importe qui.</p>]]></description>
+      <description><![CDATA[<p>Dropbox a bloqué mon compte et 15 ans de fichiers à cause d’une photo de Nan Goldin. L’accès m’a été rendu sans réelles explications. Je raconte cette histoire et pourquoi elle pourrait aussi vous arriver.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=aF3fZNRakJs</guid>
       <enclosure url="https://i.ytimg.com/vi/aF3fZNRakJs/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -56,7 +65,7 @@
       <link>https://www.youtube.com/watch?v=-pew1sdEM_I</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Thu, 01 Oct 2026 16:00:37 GMT</pubDate>
-      <description><![CDATA[<p>Je mets fin à la culture photo sur la chaîne : j’ai terminé 10 outils gratuits pour savoir quoi lire, qui suivre, où aller et comment rester informé. Tout est expliqué dans la vidéo.</p>]]></description>
+      <description><![CDATA[<p>Je ferme le chapitre culture photo sur la chaîne : j’ai fini de construire les 10 outils gratuits qui répondent à vos questions (quoi lire, qui suivre, où aller). Je vous les présente dans la nouvelle vidéo.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=-pew1sdEM_I</guid>
       <enclosure url="https://i.ytimg.com/vi/-pew1sdEM_I/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -65,7 +74,7 @@
       <link>https://www.youtube.com/watch?v=W_GlqNea63U</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 23 Sep 2026 16:00:05 GMT</pubDate>
-      <description><![CDATA[<p>Je reviens de 3 semaines de voyage avec un kit Hasselblad moyen format. Mon retour d’expérience sur le terrain : poids, autofocus, batteries et ce qui m’a agacé, sans tableaux ni mires. Vidéo en ligne.</p>]]></description>
+      <description><![CDATA[<p>3 semaines en voyage avec un kit moyen format Hasselblad X2D II : poids, autofocus, batteries et quelques agacements. Mon retour à chaud, sans mires ni tableaux, pour savoir si je le recommande.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=W_GlqNea63U</guid>
       <enclosure url="https://i.ytimg.com/vi/W_GlqNea63U/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -74,7 +83,7 @@
       <link>https://www.youtube.com/watch?v=3Fesyt3rOrU</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 16 Sep 2026 16:00:03 GMT</pubDate>
-      <description><![CDATA[<p>Je refuse les concours photo, même comme juré. Entre médailles payantes et envie de plaire au jury, ils font rarement progresser. Dans la vidéo, je nuance aussi avec les rares prix utiles.</p>]]></description>
+      <description><![CDATA[<p>J’ai refusé d’être juré dans un concours photo. Dans cette vidéo, j’explique leur modèle économique, ce qu’ils font à notre pratique, et les rares prix qui valent vraiment le coup.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=3Fesyt3rOrU</guid>
       <enclosure url="https://i.ytimg.com/vi/3Fesyt3rOrU/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -83,7 +92,7 @@
       <link>https://www.youtube.com/watch?v=zQ3Oc9BdQ7c</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 02 Sep 2026 16:00:06 GMT</pubDate>
-      <description><![CDATA[<p>Je passe sans doute trop de temps à étudier la photo. Une règle découverte en apprenant le dessin m’a aidé : max 50% d’étude, et au moins 50% à photographier pour jouer, sans rien à prouver.</p>]]></description>
+      <description><![CDATA[<p>Et si vous étudiez trop la photo ? Une règle empruntée au dessin dit : 50% d’étude maximum, et au moins 50% à photographier pour rien, juste pour jouer. Je vous explique pourquoi dans ma dernière vidéo.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=zQ3Oc9BdQ7c</guid>
       <enclosure url="https://i.ytimg.com/vi/zQ3Oc9BdQ7c/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
@@ -92,18 +101,9 @@
       <link>https://www.youtube.com/watch?v=_EoT6Y8Mft4</link>
       <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
       <pubDate>Wed, 08 Jul 2026 16:00:36 GMT</pubDate>
-      <description><![CDATA[<p>Dix photographes que je trouve surcotés ou sous-cotés, selon moi, sans jugement sur leur qualité. Mon avis est subjectif et vous allez peut-être râler, alors dites-moi quels noms vous mettriez dans vos listes.</p>]]></description>
+      <description><![CDATA[<p>Dix photographes que je trouve surcotés ou sous-cotés, sans dire qu’ils sont mauvais : on en parle simplement trop ou pas assez. Un avis très subjectif, et j’aimerais lire vos propres listes en commentaire.</p>]]></description>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=_EoT6Y8Mft4</guid>
       <enclosure url="https://i.ytimg.com/vi/_EoT6Y8Mft4/hqdefault.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title><![CDATA[Il photographie (presque) la même façade depuis 20 ans…]]></title>
-      <link>https://www.youtube.com/watch?v=IJPTGFOCGB4</link>
-      <dc:creator><![CDATA[Thomas Hammoudi]]></dc:creator>
-      <pubDate>Wed, 24 Jun 2026 16:00:22 GMT</pubDate>
-      <description><![CDATA[<p>Thibaut Derien photographie presque la même façade depuis 20 ans. Pour moi, ce n’est pas de la paresse mais une vraie méthode, qui documente la France des petits commerces qui s’éteint.</p>]]></description>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=IJPTGFOCGB4</guid>
-      <enclosure url="https://i.ytimg.com/vi/IJPTGFOCGB4/hqdefault.jpg" length="0" type="image/jpeg"/>
     </item>
 </channel>
 </rss>
