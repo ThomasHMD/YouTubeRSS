@@ -1,13 +1,15 @@
+**English** | [Français](README.fr.md)
+
 # YouTubeRSS
 
-Flux RSS statique des dernières vidéos YouTube de [Thomas Hammoudi](https://www.youtube.com/@ThomasHammoudi), régénéré tous les 2 mois par n8n (workflow `t6SBAQu7IVevc4Dh`).
+Static RSS feed of the latest YouTube videos of [Thomas Hammoudi](https://www.youtube.com/@ThomasHammoudi), regenerated every 2 months by n8n (workflow `t6SBAQu7IVevc4Dh`).
 
-URL servie par GitHub Pages : <https://thomashmd.github.io/YouTubeRSS/feed.xml>
+URL served by GitHub Pages: <https://thomashmd.github.io/YouTubeRSS/feed.xml>
 
-Consommé par Metricool pour planifier automatiquement les posts Facebook / Bluesky / Threads associés à chaque vidéo. Remplace l'ancien webhook n8n `https://n8n.thomashammoudi.com/webhook/video-youtube` (déprécié).
+Consumed by Metricool to automatically schedule the Facebook / Bluesky / Threads posts tied to each video. Replaces the old n8n webhook `https://n8n.thomashammoudi.com/webhook/video-youtube` (deprecated).
 
-## Pourquoi statique ?
+## Why static?
 
-Metricool appelait l'ancien webhook avec une fréquence très élevée, ce qui polluait les logs n8n et chargeait inutilement Railway. Un fichier statique sur GitHub Pages est gratuit, rapide, et n'a aucune limite de débit.
+Metricool called the old webhook very frequently, which cluttered the n8n logs and needlessly loaded Railway. A static file on GitHub Pages is free, fast, and has no rate limit.
 
-Même approche que le repo voisin [`ChineurRSS`](https://github.com/ThomasHMD/ChineurRSS).
+Same approach as the neighboring repo [`ChineurRSS`](https://github.com/ThomasHMD/ChineurRSS).
